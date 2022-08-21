@@ -20,14 +20,14 @@ class ScorePage extends StatefulWidget {
 class _ScorePageState extends State<ScorePage> {
 
   Future<List<dynamic>?> getTopScore()async{
-    await dotenv.load(fileName: ".env");
 
-    final keyApplicationId = dotenv.env['KEYAPPLICATIONID'];
-    final keyClientKey = dotenv.env['KEYCLIENT'];
+
+    final keyApplicationId = 'oRichq767ktNr0UZ5IuKtQRaHexzCWqMZteoiWRK';
+    final keyClientKey = 'Baf5derLykwqXMk0h3ikhpNA8bKTFx0q58CDvvLg';
     final keyParseServerUrl = 'https://parseapi.back4app.com';
 
 
-    await Parse().initialize(keyApplicationId!, keyParseServerUrl,
+    await Parse().initialize(keyApplicationId, keyParseServerUrl,
         clientKey: keyClientKey, debug: true);
 
     QueryBuilder<ParseObject> queryScore =
