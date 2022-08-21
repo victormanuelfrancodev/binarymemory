@@ -24,7 +24,7 @@ class _ScorePageState extends State<ScorePage> {
 
     final keyApplicationId = dotenv.env['KEYAPPLICATIONID'];
     final keyClientKey = dotenv.env['KEYCLIENT'];
-    final keyParseServerUrl = 'https://parseapi.back4app.com';s
+    final keyParseServerUrl = 'https://parseapi.back4app.com';
 
 
     await Parse().initialize(keyApplicationId!, keyParseServerUrl,
