@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/victormanuellagunas/.pub-cache/hosted/pub.dartlang.org/audioplayers_android-1.0.1/android/src/main/AndroidManifest.xml:1:1-4:35
+INJECTED from /Users/victormanuellagunas/.pub-cache/hosted/pub.dartlang.org/audioplayers_android-1.0.1/android/src/main/AndroidManifest.xml:1:1-4:35
+INJECTED from /Users/victormanuellagunas/.pub-cache/hosted/pub.dartlang.org/audioplayers_android-1.0.1/android/src/main/AndroidManifest.xml:1:1-4:35
+	package
+		ADDED from /Users/victormanuellagunas/.pub-cache/hosted/pub.dartlang.org/audioplayers_android-1.0.1/android/src/main/AndroidManifest.xml:2:5-36
+		INJECTED from /Users/victormanuellagunas/.pub-cache/hosted/pub.dartlang.org/audioplayers_android-1.0.1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/victormanuellagunas/.pub-cache/hosted/pub.dartlang.org/audioplayers_android-1.0.1/android/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/victormanuellagunas/.pub-cache/hosted/pub.dartlang.org/audioplayers_android-1.0.1/android/src/main/AndroidManifest.xml:4:5-32
+	xmlns:android
+		ADDED from /Users/victormanuellagunas/.pub-cache/hosted/pub.dartlang.org/audioplayers_android-1.0.1/android/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/victormanuellagunas/.pub-cache/hosted/pub.dartlang.org/audioplayers_android-1.0.1/android/src/main/AndroidManifest.xml:3:5-28
+uses-sdk
+INJECTED from /Users/victormanuellagunas/.pub-cache/hosted/pub.dartlang.org/audioplayers_android-1.0.1/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/victormanuellagunas/.pub-cache/hosted/pub.dartlang.org/audioplayers_android-1.0.1/android/src/main/AndroidManifest.xml
+INJECTED from /Users/victormanuellagunas/.pub-cache/hosted/pub.dartlang.org/audioplayers_android-1.0.1/android/src/main/AndroidManifest.xml
+INJECTED from /Users/victormanuellagunas/.pub-cache/hosted/pub.dartlang.org/audioplayers_android-1.0.1/android/src/main/AndroidManifest.xml
+INJECTED from /Users/victormanuellagunas/.pub-cache/hosted/pub.dartlang.org/audioplayers_android-1.0.1/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/victormanuellagunas/.pub-cache/hosted/pub.dartlang.org/audioplayers_android-1.0.1/android/src/main/AndroidManifest.xml
+		ADDED from /Users/victormanuellagunas/.pub-cache/hosted/pub.dartlang.org/audioplayers_android-1.0.1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/victormanuellagunas/.pub-cache/hosted/pub.dartlang.org/audioplayers_android-1.0.1/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/victormanuellagunas/.pub-cache/hosted/pub.dartlang.org/audioplayers_android-1.0.1/android/src/main/AndroidManifest.xml
+		ADDED from /Users/victormanuellagunas/.pub-cache/hosted/pub.dartlang.org/audioplayers_android-1.0.1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/victormanuellagunas/.pub-cache/hosted/pub.dartlang.org/audioplayers_android-1.0.1/android/src/main/AndroidManifest.xml
